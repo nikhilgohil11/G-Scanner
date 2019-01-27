@@ -3,7 +3,7 @@
 It's a bar code and qr code scanner with all types of code.
 
 <p align="center">
-  <img src=".logo.png" alt="G-Scanner: All bar code and qr code scanner"
+  <img src="./logo.png" 
        width="514" height="103">
 </p>
 
